@@ -1,0 +1,14 @@
+layout_spectrum: 0.3798273862339556
+typography_spectrum: 0.26889999443665147
+color:
+  brandStrength: 0.19807412824593484
+  lightness: 0.07922866987064481
+  saturation: 0.4565939735621214
+  rhythmicContrast: 0.31687415484339
+  brandColors:
+    - '#F6F792'
+    - '#333745'
+    - '#77C4D3'
+    - '#DAEDE2'
+    - '#EA2E49'
+name: phive.io
